@@ -10,8 +10,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -24,8 +22,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier3" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -38,8 +34,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -52,8 +46,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier3" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -66,8 +58,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -81,8 +71,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="rifles" />
     <tag name="police" />
     <tag name="military" />
@@ -97,7 +85,6 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -110,8 +97,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="rifles" />
     <tag name="hunting" />
   </type>
@@ -124,8 +109,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier234" />
     <category name="rifles" />
     <tag name="hunting" />
   </type>
@@ -138,7 +121,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
     <category name="rifles" />
     <tag name="hunting" />
   </type>
@@ -151,7 +133,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
     <category name="rifles" />
     <tag name="hunting" />
   </type>
@@ -164,7 +145,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
     <category name="rifles" />
     <tag name="hunting" />
   </type>
@@ -177,8 +157,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -191,8 +169,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -206,8 +182,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier7" />
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -220,8 +194,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier34" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -234,8 +206,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -248,8 +218,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -262,8 +230,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -276,8 +242,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier7" />
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -290,8 +254,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -305,8 +267,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="rifles" />
     <tag name="police" />
     <tag name="military" />
@@ -320,8 +280,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier123" />
     <category name="rifles" />
     <tag name="civilian" />
   </type>
@@ -334,8 +292,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier12" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -349,8 +305,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier12" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -363,8 +317,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -377,8 +329,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -391,8 +341,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="rifles" />
     <tag name="police" />
     <tag name="military" />
@@ -406,8 +354,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -420,8 +366,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -434,8 +378,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -448,8 +390,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -462,8 +402,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier234" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -477,8 +415,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -492,8 +428,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -507,8 +441,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="rifles" />
     <tag name="civilian" />
   </type>
@@ -521,8 +453,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier34" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -535,8 +465,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="rifles" />
     <tag name="police" />
   </type>
@@ -549,12 +477,9 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="rifles" />
     <tag name="police" />
   </type>
-
   <!-- NAMALSK - WEAPONS - PISTOLS -->
   <type name="Colt1911">
     <nominal>3</nominal>
@@ -565,8 +490,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -579,8 +502,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier234" />
     <category name="pistols" />
     <tag name="military" />
   </type>
@@ -593,8 +514,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="police" />
   </type>
@@ -607,8 +526,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -621,8 +538,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -635,8 +550,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="tools" />
     <tag name="civilian" />
     <tag name="police" />
@@ -652,8 +565,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier234" />
     <category name="pistols" />
     <tag name="military" />
   </type>
@@ -666,8 +577,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="pistols" />
     <tag name="police" />
   </type>
@@ -680,8 +589,6 @@
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -694,8 +601,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="pistols" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -709,8 +614,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -723,8 +626,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -737,8 +638,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier12" />
     <category name="pistols" />
     <tag name="hunting" />
   </type>
@@ -751,8 +650,6 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -765,8 +662,6 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
@@ -779,12 +674,9 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier1" />
     <category name="pistols" />
     <tag name="civilian" />
   </type>
-
   <!-- NAMALSK - WEAPONS - EXPLOSIVES -->
   <type name="RGD5Grenade">
     <nominal>7</nominal>
@@ -795,8 +687,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="explosives" />
     <tag name="military" />
   </type>
@@ -809,8 +699,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
     <category name="explosives" />
     <tag name="military" />
   </type>
@@ -949,8 +837,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier4" />
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -963,8 +849,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier67" />
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -1033,8 +917,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier34" />
     <category name="explosives" />
     <tag name="military" />
   </type>
@@ -1047,12 +929,9 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value user="Tier23" />
     <category name="tools" />
     <tag name="civilian" />
   </type>
-
   <!-- NAMALSK - WEAPONS - BOLT/ARROW -->
   <type name="Ammo_HuntingBolt">
     <nominal>20</nominal>
@@ -1068,7 +947,6 @@
     <category name="weapons" />
     <tag name="hunting" />
   </type>
-
   <!-- NAMALSK - WEAPONS - MELEE -->
   <type name="WoodAxe">
     <nominal>20</nominal>
@@ -1313,7 +1191,6 @@
     <category name="tools" />
     <tag name="civilian" />
   </type>
-
   <!-- NAMALSK - AMMO -->
   <type name="Ammo_45ACP">
     <nominal>7</nominal>
