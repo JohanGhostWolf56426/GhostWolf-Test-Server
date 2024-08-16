@@ -1403,13 +1403,7 @@
                                 {
                                     "Name": "UniversalLight",
                                     "Chance": 1.0,
-                                    "Attachments": [
-                                        {
-                                            "Name": "Battery9V",
-                                            "Chance": 1.0,
-                                            "Attachments": []
-                                        }
-                                    ]
+                                    "Attachments": []
                                 }
                             ],
                             "Chance": 0.25
@@ -1431,13 +1425,7 @@
                                 {
                                     "Name": "NVGoggles",
                                     "Chance": 1.0,
-                                    "Attachments": [
-                                        {
-                                            "Name": "Battery9V",
-                                            "Chance": 1.0,
-                                            "Attachments": []
-                                        }
-                                    ]
+                                    "Attachments": []
                                 }
                             ],
                             "Chance": 0.12
@@ -1464,24 +1452,12 @@
                                 {
                                     "Name": "NVGoggles",
                                     "Chance": 1.0,
-                                    "Attachments": [
-                                        {
-                                            "Name": "Battery9V",
-                                            "Chance": 1.0,
-                                            "Attachments": []
-                                        }
-                                    ]
+                                    "Attachments": []
                                 },
                                 {
                                     "Name": "UniversalLight",
                                     "Chance": 1.0,
-                                    "Attachments": [
-                                        {
-                                            "Name": "Battery9V",
-                                            "Chance": 1.0,
-                                            "Attachments": []
-                                        }
-                                    ]
+                                    "Attachments": []
                                 }
                             ],
                             "Chance": 0.06
@@ -2024,6 +2000,96 @@
                         },
                         {
                             "Name": "dzn_gorka_pants_winter",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PolicePants",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PolicePantsOrel",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "ParamedicPants_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "ParamedicPants_Crimson",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ParamedicPants_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "FirefightersPants_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "FirefightersPants_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PrisonUniformPants",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MedicalScrubsPants_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MedicalScrubsPants_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MedicalScrubsPants_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "USMCPants_Desert",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "USMCPants_Woodland",
                             "Attachments": [],
                             "Chance": 1
                         }
