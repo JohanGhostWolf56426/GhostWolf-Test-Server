@@ -14538,4 +14538,55 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
+  <!--Tents-->
+  <type name="LargeTent">
+    <lifetime>1209600</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="CarTent">
+    <lifetime>1209600</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="PartyTent">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>1209600</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="PartyTent_Blue">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>1209600</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="PartyTent_Brown">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>1209600</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
 </types>
