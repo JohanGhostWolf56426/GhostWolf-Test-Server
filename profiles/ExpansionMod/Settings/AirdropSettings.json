@@ -509,6 +509,1525 @@
                             "Chance": 1
                         }
                     ]
+                },
+                {
+                    "Name": "Bandana_RedPattern",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Bandana_BlackPattern",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_PolkaPattern",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_Greenpattern",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_CamoPattern",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_Pink",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bandana_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_bandana_wintercamopattern",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "RadarCap_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "RadarCap_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "RadarCap_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "RadarCap_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "RadarCap_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "MilitaryBeret_Red",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MilitaryBeret_UN",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBeret_NZ",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBeret_ChDKZ",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBeret_CDF",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_milberet_red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_milberet_blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_milberet_green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_milberet_black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_milberet_specnaz",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "FlatCap_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "FlatCap_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_BrownCheck",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_GreyCheck",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "FlatCap_BlackCheck",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "ZmijovkaCap_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "ZmijovkaCap_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ZmijovkaCap_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ZmijovkaCap_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ZmijovkaCap_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CowboyHat_Brown",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CowboyHat_black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CowboyHat_darkBrown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CowboyHat_green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CowboyHat_Brown",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CowboyHat_black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CowboyHat_darkBrown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CowboyHat_green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "BoonieHat_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "BoonieHat_Black",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Blue",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_DPM",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_DPM",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Dubok",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Dubok",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Flecktran",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Flecktran",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_NavyBlue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_NavyBlue",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Olive",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Olive",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Orange",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Orange",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Red",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "BoonieHat_Tan",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BoonieHat_Tan",
+                            "Attachments": [
+                                "Hook"
+                            ],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "OfficerHat",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PoliceCap",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PilotkaCap",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "TankerHelmet",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GorkaHelmet",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "GorkaHelmet",
+                            "Attachments": [
+                                "GorkaHelmetVisor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "GorkaHelmet_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "GorkaHelmet_Green",
+                            "Attachments": [
+                                "GorkaHelmetVisor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "GorkaHelmet_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "GorkaHelmet_Black",
+                            "Attachments": [
+                                "GorkaHelmetVisor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "dzn_GorkaHelmet_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_GorkaHelmet_White",
+                            "Attachments": [
+                                "GorkaHelmetVisor"
+                            ],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "FirefightersHelmet_Red",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "FirefightersHelmet_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "SkateHelmet_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SkateHelmet_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SkateHelmet_Gray",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SkateHelmet_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SkateHelmet_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "WeldingMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PrisonerCap",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GhillieHood_Tan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "GhillieHood_Woodland",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "GhillieHood_Mossy",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_ghilliehoodwinter",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_ghilliehoodtandark",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "MedicalScrubsHat_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MedicalScrubsHat_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MedicalScrubsHat_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "GreatHelm",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ssh68Helmet",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "DirtBikeHelmet_Green",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "DirtBikeHelmet_Green",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Green",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Green",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Chernarus",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Chernarus",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Chernarus",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Chernarus",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Khaki",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Khaki",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Khaki",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Khaki",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Police",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Police",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Police",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Police",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Red",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Red",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Red",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Black",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Black",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Black",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Blue",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Blue",
+                            "Attachments": [
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "DirtBikeHelmet_Blue",
+                            "Attachments": [
+                                "DirtBikeHelmet_Visor",
+                                "DirtBikeHelmet_Mouthguard"
+                            ],
+                            "Chance": 0.25
+                        }
+                    ]
+                },
+                {
+                    "Name": "NBCHoodGray",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "NBCHoodYellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "HockeyHelmet_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "HockeyHelmet_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HockeyHelmet_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HockeyHelmet_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "SantasHat",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "WitchHood_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WitchHood_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WitchHood_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "WitchHoodCoif_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WitchHoodCoif_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WitchHoodCoif_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "WitchHat",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Mich2001Helmet",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Chance": 0.12
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.12
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments": [
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Chance": 0.06
+                        }
+                    ]
+                },
+                {
+                    "Name": "NorseHelm",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Chainmail_Coif",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MorozkoHat",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "WinterCoif_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WinterCoif_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WinterCoif_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WinterCoif_Skull",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "OKZKCap_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "OKZKCap_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PetushokHat_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PetushokHat_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PetushokHat_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "ChristmadHeadband_Antlers",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "ChristmadHeadband_Gingerbread",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ChristmadHeadband_Trees",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Headtorch_Grey",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Headtorch_Grey",
+                            "Attachments": [
+                                {
+                                    "Name": "Battery9V",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.5
+                        },
+                        {
+                            "Name": "Headtorch_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Headtorch_Black",
+                            "Attachments": [
+                                {
+                                    "Name": "Battery9V",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.25
+                        }
+                    ]
+                },
+                {
+                    "Name": "GasMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "NioshFaceMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "BalaclavaMask_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "BalaclavaMask_Blackskull",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BalaclavaMask_Beige",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BalaclavaMask_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BalaclavaMask_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BalaclavaMask_Pink",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "BalaclavaMask_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PaydayMask_Dallas",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PaydayMask_Hoxton",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PaydayMask_Wolf",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PaydayMask_Chains",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "GP5GasMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "GP5GasMask",
+                            "Attachments": [
+                                {
+                                    "Name": "GasMask_Filter",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "AirborneMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "AirborneMask",
+                            "Attachments": [
+                                {
+                                    "Name": "GasMask_Filter",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "Balaclava3Holes_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Balaclava3Holes_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Balaclava3Holes_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Balaclava3Holes_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "SantasBeard",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SurgicalMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "HokeyMask",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MineMask_Male",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MineMask_Female",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CrookedNose",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Jeans_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Jeans_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Jeans_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Jeans_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Jeans_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Jeans_BlueDark",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CargoPants_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CargoPants_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CargoPants_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CargoPants_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CargoPants_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "TTSKOPants",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "HunterPants_Autumn",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "HunterPants_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HunterPants_Spring",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HunterPants_Summer",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HunterPants_Winter",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CanvasPants_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CanvasPants_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPants_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPants_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPants_Violet",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CanvasPantsMidi_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CanvasPantsMidi_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPantsMidi_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPantsMidi_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CanvasPantsMidi_Violet",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "TrackSuitPants_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "TrackSuitPants_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "TrackSuitPants_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "TrackSuitPants_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "TrackSuitPants_LightBlue",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "GorkaPants_Summer",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "GorkaPants_Autumn",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "GorkaPants_Flat",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "GorkaPants_PautRev",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_gorka_pants_winter",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
                 }
             ]
         }
