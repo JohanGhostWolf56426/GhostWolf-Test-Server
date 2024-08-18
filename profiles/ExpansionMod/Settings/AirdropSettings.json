@@ -773,7 +773,11 @@
                         {
                             "Name": "BoonieHat_Black",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -785,7 +789,11 @@
                         {
                             "Name": "BoonieHat_Blue",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -797,7 +805,11 @@
                         {
                             "Name": "BoonieHat_DPM",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -809,7 +821,11 @@
                         {
                             "Name": "BoonieHat_Dubok",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -821,7 +837,11 @@
                         {
                             "Name": "BoonieHat_Flecktran",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -833,7 +853,11 @@
                         {
                             "Name": "BoonieHat_NavyBlue",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -845,7 +869,11 @@
                         {
                             "Name": "BoonieHat_Olive",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -857,7 +885,11 @@
                         {
                             "Name": "BoonieHat_Orange",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -869,7 +901,11 @@
                         {
                             "Name": "BoonieHat_Red",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -881,7 +917,11 @@
                         {
                             "Name": "BoonieHat_Tan",
                             "Attachments": [
-                                "Hook"
+                                {
+                                "Name": "Hook",
+                                "Chance": 1.0,
+                                "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         }
@@ -929,7 +969,11 @@
                         {
                             "Name": "GorkaHelmet",
                             "Attachments": [
-                                "GorkaHelmetVisor"
+                                {
+                                    "Name": "GorkaHelmetVisor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -941,7 +985,11 @@
                         {
                             "Name": "GorkaHelmet_Green",
                             "Attachments": [
-                                "GorkaHelmetVisor"
+                                {
+                                    "Name": "GorkaHelmetVisor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -953,7 +1001,11 @@
                         {
                             "Name": "GorkaHelmet_Black",
                             "Attachments": [
-                                "GorkaHelmetVisor"
+                                {
+                                    "Name": "GorkaHelmetVisor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -965,7 +1017,11 @@
                         {
                             "Name": "dzn_GorkaHelmet_White",
                             "Attachments": [
-                                "GorkaHelmetVisor"
+                                {
+                                    "Name": "GorkaHelmetVisor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         }
@@ -1104,22 +1160,38 @@
                         {
                             "Name": "DirtBikeHelmet_Green",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Green",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Green",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1131,22 +1203,38 @@
                         {
                             "Name": "DirtBikeHelmet_Chernarus",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Chernarus",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Chernarus",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1158,22 +1246,38 @@
                         {
                             "Name": "DirtBikeHelmet_Khaki",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Khaki",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Khaki",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1185,22 +1289,38 @@
                         {
                             "Name": "DirtBikeHelmet_Police",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Police",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Police",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1212,22 +1332,38 @@
                         {
                             "Name": "DirtBikeHelmet_Red",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Red",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Red",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1239,22 +1375,38 @@
                         {
                             "Name": "DirtBikeHelmet_Black",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Black",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Black",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         },
@@ -1266,22 +1418,38 @@
                         {
                             "Name": "DirtBikeHelmet_Blue",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Blue",
                             "Attachments": [
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "DirtBikeHelmet_Blue",
                             "Attachments": [
-                                "DirtBikeHelmet_Visor",
-                                "DirtBikeHelmet_Mouthguard"
+                                {
+                                    "Name": "DirtBikeHelmet_Visor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DirtBikeHelmet_Mouthguard",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         }
