@@ -1556,25 +1556,103 @@
                     "Variants": [
                         {
                             "Name": "Mich2001Helmet",
-                            "Attachments": [
-                                    "UniversalLight"
+                            "Attachments":[
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
                         {
                             "Name": "Mich2001Helmet",
-                            "Attachments": [
-                                "NVGoggles"
+                            "Attachments":[
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
                             ],
                             "Chance": 0.25
                         },
                         {
                             "Name": "Mich2001Helmet",
-                            "Attachments": [
-                                "NVGoggles",
-                                "UniversalLight"
+                            "Attachments":[
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.25
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments":[
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
                             ],
                             "Chance": 0.12
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments":[
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ],
+                            "Chance": 0.12
+                        },
+                        {
+                            "Name": "Mich2001Helmet",
+                            "Attachments":[
+                                {
+                                    "Name": "NVGoggles",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "UniversalLight",
+                                    "Chance": 1.0,
+                                    "Attachments": [
+                                        {
+                                            "Name": "Battery9V",
+                                            "Chance": 1.0,
+                                            "Attachments": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Chance": 0.06
                         }
                     ]
                 },
@@ -1687,8 +1765,12 @@
                     "Variants": [
                         {
                             "Name": "Headtorch_Grey",
-                            "Attachments": [
-                                "Battery9V"
+                            "Attachments":[
+                                {
+                                    "Name": "Battery9V",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         },
@@ -1699,8 +1781,12 @@
                         },
                         {
                             "Name": "Headtorch_Black",
-                            "Attachments": [
-                                "Battery9V"
+                            "Attachments":[
+                                {
+                                    "Name": "Battery9V",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.25
                         }
@@ -1794,8 +1880,12 @@
                     "Variants": [
                         {
                             "Name": "GP5GasMask",
-                            "Attachments": [
-                                "GasMask_Filter"
+                            "Attachments":[
+                                {
+                                    "Name": "GasMask_Filter",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         }
@@ -1810,8 +1900,12 @@
                     "Variants": [
                         {
                             "Name": "AirborneMask",
-                            "Attachments": [
-                                "GasMask_Filter"
+                            "Attachments":[
+                                {
+                                    "Name": "GasMask_Filter",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
                             ],
                             "Chance": 0.5
                         }
