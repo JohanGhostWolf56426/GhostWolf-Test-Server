@@ -2286,6 +2286,766 @@
                             "Chance": 1
                         }
                     ]
+                },
+                {
+                    "Name": "SlacksPants_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SlacksPants_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_DarkGrey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_Khaki",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_LightGrey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "SlacksPants_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "BDUPants",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "NBCPantsGray",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "NBCPantsYellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Breeches_Pink",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Breeches_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_Browncheck",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_Beige",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Breeches_Beetcheck",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "ShortJeans_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "ShortJeans_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ShortJeans_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ShortJeans_Darkblue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ShortJeans_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "ShortJeans_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Skirt_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Skirt_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Skirt_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Skirt_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "JumpsuitPants_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "JumpsuitPants_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JumpsuitPants_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JumpsuitPants_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Chainmail_Leggings",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "AthleticShoes_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "AthleticShoes_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "AthleticShoes_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "AthleticShoes_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "AthleticShoes_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "HikingBoots_Brown",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "HikingBoots_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "HikingBootsLow_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "HikingBootsLow_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HikingBootsLow_Beige",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "HikingBootsLow_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "ExpansionGunrack",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Wellies_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Wellies_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Wellies_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Wellies_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "WorkingBoots_Grey",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WorkingBoots_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WorkingBoots_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WorkingBoots_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WorkingBoots_Beige",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "JungleBoots_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "JungleBoots_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JungleBoots_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JungleBoots_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JungleBoots_Olive",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "DressShoes_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "DressShoes_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DressShoes_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DressShoes_Sunburst",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "DressShoes_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "MilitaryBoots_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MilitaryBoots_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBoots_Bluerock",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBoots_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MilitaryBoots_Redpunk",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "CombatBoots_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CombatBoots_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CombatBoots_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CombatBoots_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "CombatBoots_Grey",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "JoggingShoes_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "JoggingShoes_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JoggingShoes_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JoggingShoes_Violet",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "JoggingShoes_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Sneakers_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Sneakers_Gray",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Sneakers_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Sneakers_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Sneakers_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "NBCBootsGray",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "NBCBootsYellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Ballerinas_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Ballerinas_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Ballerinas_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Ballerinas_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "TTSKOBoots",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MedievalBoots",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Armband_White",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Armband_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Orange",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Pink",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Chernarus",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Chedaki",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_NAPA",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_CDF",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Livonia",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Altis",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_SSahrani",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_NSahrani",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_DayZ",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_LivoniaArmy",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Bohemia",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_APA",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_UEC",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Pirates",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Cannibals",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Bear",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Wolf",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_BabyDear",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Rooster",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_LivoniaPolice",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_CMC",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_TEC",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_CHEL",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Zenit",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_HunterZ",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_BrainZ",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Refuge",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_RSTA",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Snake",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Crook",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Rex",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Armband_Zagorky",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
                 }
             ]
         }
