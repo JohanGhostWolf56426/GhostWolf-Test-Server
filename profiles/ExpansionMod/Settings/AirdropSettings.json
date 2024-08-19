@@ -3852,6 +3852,1466 @@
                             "Chance": 1
                         }
                     ]
+                },
+                {
+                    "Name": "Chainmail",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PlateCarrierVest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PlateCarrierVest_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierVest_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierVest_Camo",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_platecarriervest_nac",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "SmershVest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "dzn_smershvest_white",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_smershvest_black",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PressVest_Blue",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PressVest_LightBlue",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "UKAssVest_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "UKAssVest_Camo",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "UKAssVest_Khaki",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "UKAssVest_Olive",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_ukassvest_white",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "PoliceVest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PlateCarrierHolster",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PlateCarrierHolster_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierHolster_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierHolster_Camo",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_platecarrierholster_nac",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "ChestHolster",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "HighCapacityVest_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "HighCapacityVest_Olive",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_highcapacityvest_nac",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "HuntingVest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "ReflexVest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "ChestPlate",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MediumTent",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "MediumTent_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "MediumTent_Orange",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "LargeTent",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "CarTent",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PartyTent",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PartyTent_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PartyTent_Brown",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PartyTent_Lunapark",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "BarbedWire",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "CamoNet",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SeaChest",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Spotlight",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "XmasLights",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PowerGenerator",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "CableReel",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "BatteryCharger",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Barrel_Green",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Barrel_Blue",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Barrel_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Barrel_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "FirstAidKit",
+                    "Chance": 2.440000057220459,
+                    "Attachments": [
+                        {
+                            "Name": "BandageDressing",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "BandageDressing",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.04098400101065636,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SalineBagIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DisinfectantAlcohol",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "Epinephrine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "StartKitIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "TetracyclineAntiBiotics",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SalineBagIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Epinephrine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "TetracyclineAntiBiotics",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SurgicalGloves_Blue",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DisinfectantAlcohol",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.03376999869942665,
+                            "Attachments": [
+                                {
+                                    "Name": "IodineTincture",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.023770000785589219,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AntiChemInjector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_FirstAidKit",
+                    "Chance": 2.440000057220459,
+                    "Attachments": [
+                        {
+                            "Name": "BandageDressing",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "BandageDressing",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.04098400101065636,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SalineBagIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DisinfectantAlcohol",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "Epinephrine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "StartKitIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.07377000153064728,
+                            "Attachments": [
+                                {
+                                    "Name": "TetracyclineAntiBiotics",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SalineBagIV",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Epinephrine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "TetracyclineAntiBiotics",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Morphine",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "SurgicalGloves_Blue",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "VitaminBottle",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.06377000361680985,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "DisinfectantAlcohol",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.03376999869942665,
+                            "Attachments": [
+                                {
+                                    "Name": "IodineTincture",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "PainkillerTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "dzn_FirstAidKit",
+                            "Chance": 0.023770000785589219,
+                            "Attachments": [
+                                {
+                                    "Name": "CharcoalTablets",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AntiChemInjector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "SmallProtectorCase",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PlateCarrierPouches",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PlateCarrierPouches_Black",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierPouches_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "PlateCarrierPouches_Camo",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "dzn_platecarrierpouches_nac",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "AmmoBox",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Bear_Beige",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Bear_Dark",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bear_Pink",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Bear_White",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "WaterproofBag_Yellow",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WaterproofBag_Green",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "WaterproofBag_Orange",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Rope",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MetalWire",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "dzn_Canteen",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Canteen",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_WaterBottle",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "WaterBottle",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "Vodka",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "dzn_SodaCan_Pipsi",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SodaCan_Pipsi",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_SodaCan_Cola",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SodaCan_Cola",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_SodaCan_Spite",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SodaCan_Spite",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_SodaCan_Kvass",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SodaCan_Kvass",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_SodaCan_Fronta",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SodaCan_Fronta",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "BoxCerealCrunchin",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PowderedMilk",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Rice",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "dzn_Marmalade",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Marmalade",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_Honey",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Honey",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "Zagorky",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "ZagorkyChocoloate",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "ZagorkyPeanuts",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SaltySticks",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Crackers",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Chips",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Candycane_Green",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Candycane_Red",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Candycane_RedGreen",
+                            "Attachments": [],
+                            "Chance": 1
+                        },
+                        {
+                            "Name": "Candycane_Yellow",
+                            "Attachments": [],
+                            "Chance": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_BakedBeansCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "BakedBeansCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_PeachesCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PeachesCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "TacticalBaconCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "dzn_SpaghettiCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SpaghettiCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_SardinesCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "SardinesCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_TunaCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "TunaCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_DogFoodCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "DogFoodCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_CatFoodCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "CatFoodCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_PorkCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "PorkCan",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_Lunchmeat",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Lunchmeat",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "UnknownFoodCan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "dzn_Pajka",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Pajka",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_Pate",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "Pate",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "dzn_BrisketSpread",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": [
+                        {
+                            "Name": "BrisketSpread",
+                            "Attachments": [],
+                            "Chance": 0.5
+                        }
+                    ]
+                },
+                {
+                    "Name": "Cannabis",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "DisinfectantSpray",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "DisinfectantAlcohol",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PurificationTablets",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "CharcoalTablets",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "PainkillerTablets",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
                 }
             ]
         }
