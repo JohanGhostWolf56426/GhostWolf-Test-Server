@@ -1,6 +1,6 @@
 {
     "m_Version": 5,
-    "EnableMap": 1,
+    "EnableMap": 0,
     "UseMapOnMapItem": 1,
     "ShowPlayerPosition": 1,
     "ShowMapStats": 1,
@@ -10,12 +10,12 @@
     "CanCreate3DMarker": 1,
     "CanOpenMapWithKeyBinding": 1,
     "ShowDistanceOnPersonalMarkers": 1,
-    "EnableHUDGPS": 1,
+    "EnableHUDGPS": 0,
     "NeedGPSItemForKeyBinding": 1,
     "NeedMapItemForKeyBinding": 0,
-    "EnableServerMarkers": 1,
-    "ShowNameOnServerMarkers": 1,
-    "ShowDistanceOnServerMarkers": 1,
+    "EnableServerMarkers": 0,
+    "ShowNameOnServerMarkers": 0,
+    "ShowDistanceOnServerMarkers": 0,
     "ServerMarkers": [
         {
             "m_UID": "ServerMarker_Trader_Airfield",

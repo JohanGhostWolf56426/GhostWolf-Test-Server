@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
-    "CanBuildAnywhere": 1,
-    "AllowBuildingWithoutATerritory": 1,
+    "CanBuildAnywhere": 0,
+    "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
@@ -36,8 +36,8 @@
         "TripwireTrap"
     ],
     "CanCraftVanillaBasebuilding": 0,
-    "CanCraftExpansionBasebuilding": 1,
-    "DestroyFlagOnDismantle": 1,
+    "CanCraftExpansionBasebuilding": 0,
+    "DestroyFlagOnDismantle": 0,
     "DismantleOutsideTerritory": 0,
     "DismantleInsideTerritory": 0,
     "DismantleAnywhere": 0,
@@ -46,9 +46,9 @@
     "DoDamageWhenEnterWrongCodeLock": 1,
     "DamageWhenEnterWrongCodeLock": 10.0,
     "RememberCode": 1,
-    "CanCraftTerritoryFlagKit": 1,
-    "SimpleTerritory": 1,
-    "AutomaticFlagOnCreation": 1,
+    "CanCraftTerritoryFlagKit": 0,
+    "SimpleTerritory": 0,
+    "AutomaticFlagOnCreation": 0,
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
     "Zones": [

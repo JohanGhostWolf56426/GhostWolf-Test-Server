@@ -1,13 +1,13 @@
 {
     "m_Version": 5,
-    "EnableStatusTab": 1,
-    "EnablePartyTab": 1,
-    "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
-    "EnableTerritoryTab": 1,
-    "EnableBookMenu": 1,
+    "EnableStatusTab": 0,
+    "EnablePartyTab": 0,
+    "EnableServerInfoTab": 0,
+    "EnableServerRulesTab": 0,
+    "EnableTerritoryTab": 0,
+    "EnableBookMenu": 0,
     "CreateBookmarks": 0,
-    "ShowHaBStats": 1,
+    "ShowHaBStats": 0,
     "ShowPlayerFaction": 0,
     "RuleCategories": [
         {
@@ -36,7 +36,7 @@
             ]
         }
     ],
-    "DisplayServerSettingsInServerInfoTab": 1,
+    "DisplayServerSettingsInServerInfoTab": 0,
     "SettingCategories": [
         {
             "CategoryName": "Base-Building Settings",
@@ -374,5 +374,5 @@
             ]
         }
     ],
-    "EnableCraftingRecipesTab": 1
+    "EnableCraftingRecipesTab": 0
 }
