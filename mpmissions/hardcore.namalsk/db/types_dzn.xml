@@ -331,7 +331,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena_action1">
@@ -344,7 +344,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena_action2">
@@ -357,7 +357,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_netanyas_log">
@@ -370,7 +370,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena3_august">
@@ -383,7 +383,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena3_exp1">
@@ -396,7 +396,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena3_exp2">
@@ -409,7 +409,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_athena3_october">
@@ -422,7 +422,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_lantia_december">
@@ -435,7 +435,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="medical" />
   </type>
@@ -449,7 +449,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="medical" />
   </type>
@@ -547,7 +547,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="tools" />
     <tag name="industrial" />
   </type>
@@ -561,7 +561,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="tools" />
     <tag name="industrial" />
   </type>
@@ -575,7 +575,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="tools" />
     <tag name="industrial" />
   </type>
@@ -589,7 +589,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_module_lantia">
@@ -602,7 +602,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="tools" />
     <tag name="seaice" />
   </type>
@@ -616,7 +616,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_module_ext">
@@ -629,7 +629,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_module_ext2">
@@ -642,7 +642,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier6" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -656,7 +656,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="medical" />
   </type>
@@ -670,7 +670,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="medical" />
   </type>
@@ -684,7 +684,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="medical" />
   </type>
@@ -698,7 +698,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -712,7 +712,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -726,7 +726,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -774,7 +774,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="lantia" />
     <tag name="civilian" />
   </type>
@@ -788,7 +788,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="tools" />
     <tag name="military" />
   </type>
@@ -802,7 +802,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="lore" />
   </type>
   <type name="dzn_lehs_o2tank">
@@ -815,7 +815,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier567" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -829,7 +829,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier56" />
+     
     <category name="lantia" />
     <tag name="industrial" />
   </type>
@@ -1123,7 +1123,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -1137,7 +1137,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -1151,7 +1151,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>

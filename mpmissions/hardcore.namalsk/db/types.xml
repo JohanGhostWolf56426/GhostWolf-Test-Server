@@ -1825,7 +1825,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -1853,7 +1853,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1234" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="military" />
@@ -1882,7 +1882,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="weapons" />
     <tag name="police" />
   </type>
@@ -1896,7 +1896,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="police" />
@@ -1911,7 +1911,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="weapons" />
     <tag name="civilian" />
   </type>
@@ -1925,7 +1925,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="weapons" />
     <tag name="police" />
     <tag name="military" />
@@ -1940,7 +1940,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="weapons" />
     <tag name="police" />
     <tag name="military" />
@@ -1981,7 +1981,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="weapons" />
     <tag name="police" />
     <tag name="military" />
@@ -1996,7 +1996,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2010,7 +2010,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -2025,7 +2025,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -2055,7 +2055,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2069,7 +2069,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2083,7 +2083,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2097,7 +2097,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -2112,7 +2112,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -2127,7 +2127,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2141,7 +2141,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2155,7 +2155,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier345" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2169,7 +2169,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier345" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2183,7 +2183,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2197,7 +2197,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2211,7 +2211,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2225,7 +2225,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2239,7 +2239,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2253,7 +2253,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2267,7 +2267,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2281,7 +2281,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2295,7 +2295,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2309,7 +2309,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2323,7 +2323,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2337,7 +2337,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2366,7 +2366,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2380,7 +2380,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2394,7 +2394,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2408,7 +2408,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2422,7 +2422,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2436,7 +2436,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2539,7 +2539,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2553,7 +2553,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier67" />
+     
     <category name="lantia" />
     <tag name="military" />
   </type>
@@ -2567,7 +2567,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="police" />
@@ -3137,7 +3137,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="tools" />
     <tag name="seaice" />
   </type>
@@ -3151,7 +3151,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="tools" />
     <tag name="seaice" />
   </type>
@@ -3546,7 +3546,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="tools" />
     <tag name="firefighter" />
     <tag name="medical" />
@@ -3606,7 +3606,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="tools" />
     <tag name="industrial" />
   </type>
@@ -3620,7 +3620,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="tools" />
     <tag name="industrial" />
   </type>
@@ -4963,7 +4963,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -4977,7 +4977,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -4991,7 +4991,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -5005,7 +5005,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -5548,7 +5548,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -6337,7 +6337,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -6994,7 +6994,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -7008,7 +7008,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -7022,7 +7022,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -7036,7 +7036,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -7927,7 +7927,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="containers" />
     <tag name="military" />
   </type>
@@ -7941,7 +7941,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="containers" />
     <tag name="military" />
   </type>
@@ -7955,7 +7955,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="containers" />
     <tag name="military" />
   </type>
@@ -7969,7 +7969,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="containers" />
     <tag name="military" />
   </type>
@@ -8012,7 +8012,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8068,7 +8068,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8082,7 +8082,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8096,7 +8096,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8110,7 +8110,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8124,7 +8124,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8138,7 +8138,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -8170,7 +8170,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8184,7 +8184,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8198,7 +8198,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8212,7 +8212,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8226,7 +8226,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8242,7 +8242,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8258,7 +8258,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier1" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8276,7 +8276,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8292,7 +8292,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8308,7 +8308,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="military" />
     <tag name="hunting" />
@@ -8323,7 +8323,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="industrial" />
@@ -8339,7 +8339,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="military" />
     <tag name="hunting" />
@@ -8354,7 +8354,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="military" />
     <tag name="hunting" />
@@ -8369,7 +8369,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8383,7 +8383,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="medical" />
   </type>
@@ -8397,7 +8397,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+     
     <category name="bags" />
     <tag name="military" />
     <tag name="hunting" />
@@ -8414,7 +8414,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8428,7 +8428,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8442,7 +8442,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8456,7 +8456,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8470,7 +8470,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8484,7 +8484,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8498,7 +8498,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8514,7 +8514,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8528,7 +8528,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8543,7 +8543,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8558,7 +8558,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8573,7 +8573,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8588,7 +8588,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8603,7 +8603,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="bags" />
     <tag name="fishing" />
     <tag name="industrial" />
@@ -8618,7 +8618,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -8633,7 +8633,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8647,7 +8647,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8663,7 +8663,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8677,7 +8677,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8691,7 +8691,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8705,7 +8705,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+     
     <category name="bags" />
     <tag name="civilian" />
   </type>
@@ -8719,7 +8719,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8733,7 +8733,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -8747,7 +8747,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="bags" />
     <tag name="military" />
   </type>
@@ -10566,7 +10566,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
     <tag name="police" />
@@ -10581,7 +10581,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
     <tag name="police" />
@@ -10596,7 +10596,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier234" />
+     
     <category name="clothes" />
     <tag name="military" />
     <tag name="police" />
@@ -10961,7 +10961,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+     
     <category name="tools" />
     <tag name="seaice" />
   </type>
@@ -11179,7 +11179,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+     
     <category name="clothes" />
     <tag name="industrial" />
   </type>
