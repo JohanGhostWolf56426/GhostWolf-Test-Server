@@ -9330,7 +9330,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Swedish",
+                    "Name": "Armband_Expansion_Sewdish",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9474,7 +9474,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Borduriens",
+                    "Name": "Armband_Expansion_Bordurien",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9546,7 +9546,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Skilanka",
+                    "Name": "Armband_Expansion_Silanka",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9586,7 +9586,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Gubraltar",
+                    "Name": "Armband_Expansion_Gubraar",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9626,7 +9626,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Finnish",
+                    "Name": "Armband_Expansion_nnish",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9690,7 +9690,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Red",
+                    "Name": "rmband_Expansion_Red",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9698,7 +9698,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Green",
+                    "Name": "Amband_Expansion_Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9706,7 +9706,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Yellow",
+                    "Name": "Arband_Expansion_Yellow",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9714,7 +9714,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Orange",
+                    "Name": "Armand_Expansion_Orange",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9722,7 +9722,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Pink",
+                    "Name": "Armbnd_Expansion_Pink",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9730,7 +9730,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Purple",
+                    "Name": "Armbad_Expansion_Purple",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -9738,7 +9738,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Armband_Expansion_Rainbow",
+                    "Name": "Armban_Expansion_Rainbow",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13575,6 +13575,60 @@
                 {
                     "Name": "EpoxyPutty",
                     "Chance": 0.20000000298023225,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_CodeLock",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_Blueprint",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_Cinderblock",
+                    "Chance": 0.12,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_ClawHammer_Blue",
+                    "Chance": 0.2000000059604645,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_ClawHammer_Red",
+                    "Chance": 0.2000000059604645,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RA_ClawHammer_Yellow",
+                    "Chance": 0.2000000059604645,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
