@@ -3099,7 +3099,7 @@
                             "Chance": 1
                         },
                         {
-                            "Name": "Shirt_PlaneCheck",
+                            "Name": "Shirt_PlaneBlack",
                             "Attachments": [],
                             "Chance": 1
                         }
@@ -8874,7 +8874,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Ammo_12gaPallets",
+                    "Name": "Ammo_12gaPellets",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
