@@ -5010,7 +5010,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "ZagorkyChocoloate",
+                    "Name": "ZagorkyChocolate",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -5715,14 +5715,6 @@
                 },
                 {
                     "Name": "KashtanOptic",
-                    "Attachments": [],
-                    "Chance": 1,
-                    "QuantityPercent": -2,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "LongrangeOptic",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
