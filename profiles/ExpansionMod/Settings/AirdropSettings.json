@@ -6438,7 +6438,7 @@
                             "Chance": 1
                         },
                         {
-                            "Name": "dzn_smarshbackpack_black",
+                            "Name": "dzn_smershbackpack_black",
                             "Attachments": [],
                             "Chance": 1
                         }
@@ -6464,19 +6464,19 @@
                     ]
                 },
                 {
-                    "Name": "GhillieBuchrag_Tan",
+                    "Name": "GhillieBushrag_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
                     "Max": -1,
                     "Variants": [
                         {
-                            "Name": "GhillieBuchrag_Woodland",
+                            "Name": "GhillieBushrag_Woodland",
                             "Attachments": [],
                             "Chance": 1
                         },
                         {
-                            "Name": "GhillieBuchrag_Mossy",
+                            "Name": "GhillieBushrag_Mossy",
                             "Attachments": [],
                             "Chance": 1
                         },
@@ -6724,7 +6724,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "NylonKnifeShealth",
+                    "Name": "NylonKnifeSheath",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -7218,7 +7218,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Baseball",
+                    "Name": "BaseballBat",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
