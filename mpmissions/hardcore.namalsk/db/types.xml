@@ -136,6 +136,18 @@
     <category name="rifles" />
     <tag name="hunting" />
   </type>
+  <type name="Crossbow_Summer">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="rifles" />
+    <tag name="hunting" />
+  </type>
   <type name="Crossbow_Wood">
     <nominal>1</nominal>
     <min>1</min>
@@ -457,6 +469,30 @@
     <tag name="military" />
   </type>
   <type name="Scout">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="rifles" />
+    <tag name="police" />
+  </type>
+  <type name="Scout_Chernarus">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="rifles" />
+    <tag name="police" />
+  </type>
+  <type name="Scout_Livonia">
     <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
@@ -4634,6 +4670,20 @@
     <category name="tools" />
     <tag name="civilian" />
   </type>
+  <type name="Cauldron">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
   <type name="PortableGasLamp">
     <nominal>20</nominal>
     <min>10</min>
@@ -4843,6 +4893,66 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
+  <type name="Pen_Black">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="Pen_Red">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="Pen_Green">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="Pen_Blue">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
   <type name="Heatpack">
     <nominal>60</nominal>
     <min>55</min>
@@ -4860,6 +4970,21 @@
     <tag name="military" />
   </type>
   <type name="Lockpick">
+    <nominal>20</nominal>
+    <min>15</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="Pliers">
     <nominal>20</nominal>
     <min>15</min>
     <lifetime>5400</lifetime>
@@ -5069,7 +5194,50 @@
     <tag name="farm" />
     <tag name="industrial" />
   </type>
+  <type name="FieldShovel">
+    <nominal>25</nominal>
+    <min>15</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="farm" />
+    <tag name="industrial" />
+  </type>
   <type name="Crowbar">
+    <nominal>20</nominal>
+    <min>15</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="industrial" />
+  </type>
+  <type name="Hammer">
+    <nominal>20</nominal>
+    <min>15</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="industrial" />
+  </type>
+  <type name="MeatTenderizer">
     <nominal>20</nominal>
     <min>15</min>
     <lifetime>5400</lifetime>
@@ -5216,6 +5384,20 @@
     <tag name="civilian" />
   </type>
   <type name="SteakKnife">
+    <nominal>30</nominal>
+    <min>25</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
+  <type name="Mace">
     <nominal>30</nominal>
     <min>25</min>
     <lifetime>5400</lifetime>
@@ -16357,6 +16539,18 @@
   </type>
   <type name="Cannabis">
     <lifetime>900</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Pot">
+    <lifetime>5400</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="CanOpener">
+    <lifetime>5400</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Broom_Birch">
+    <lifetime>5400</lifetime>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
   </type>
 </types>

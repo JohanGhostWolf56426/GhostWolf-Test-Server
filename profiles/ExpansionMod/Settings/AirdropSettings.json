@@ -7514,7 +7514,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "KtchenTimer",
+                    "Name": "KitchenTimer",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -8442,7 +8442,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Mag_IJ70_9Rnd",
+                    "Name": "Mag_IJ70_8Rnd",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
