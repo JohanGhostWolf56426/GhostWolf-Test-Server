@@ -2252,6 +2252,20 @@
     <category name="weapons" />
     <tag name="military" />
   </type>
+  <type name="Mag_STANAGCoupled_30Rnd">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>5400</lifetime>
+    <restock>1800</restock>
+    <quantmin>25</quantmin>
+    <quantmax>40</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+     
+    <category name="lantia" />
+    <tag name="military" />
+  </type>
   <type name="Mag_STANAG_60Rnd">
     <nominal>1</nominal>
     <min>1</min>

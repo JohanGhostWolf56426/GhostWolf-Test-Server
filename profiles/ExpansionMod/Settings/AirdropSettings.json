@@ -14989,6 +14989,15 @@
                     "Variants": []
                 },
                 {
+                    "Name": "ExpansionSupplySignal",
+                    "Chance": 0.05000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
                     "Name": "RDG2SmokeGrenade_Black",
                     "Chance": 0.10000000149011612,
                     "Attachments": [],
