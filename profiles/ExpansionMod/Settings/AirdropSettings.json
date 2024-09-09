@@ -10152,6 +10152,22 @@
                     "QuantityPercent": -2,
                     "Max": -1,
                     "Variants": []
+                },
+                {
+                    "Name": "Ammo_GW_40mm_Fart_Blue_Rnd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GW_Chemical_Gas_Mine",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
                 }
             ]
         },
@@ -11403,7 +11419,13 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
-                    "Variants": []
+                    "Variants": [
+                        {
+                        "Name": "GW_Chemical_Gas_Mine",
+                        "Chance": 0.05000000149011612,
+                        "Attachments": []
+                        }
+                    ]
                 },
                 {
                     "Name": "Mag_AK101_30Rnd",
@@ -15062,7 +15084,13 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
-                    "Variants": []
+                    "Variants": [
+                        {
+                        "Name": "GW_Chemical_Gas_Mine",
+                        "Chance": 0.05000000149011612,
+                        "Attachments": []
+                        }
+                    ]
                 },
                 {
                     "Name": "Mag_AK101_30Rnd",
