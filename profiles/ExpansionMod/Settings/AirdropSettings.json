@@ -10504,6 +10504,382 @@
                     "QuantityPercent": -2,
                     "Max": -1,
                     "Variants": []
+                },
+                {
+                    "Name": "SNAFU_SR3Grip",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_WSR3Stock",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_M60_ScopeMount",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_M60_Handguard_E3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_M60_Handguard_E4",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Aimpoint_ACO",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKAimpoint_ACO",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HAimpont_ACO",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MAimpoint_ACO",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Aimpont_M5",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKAimpoint_M5",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HAimpoint_M5",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MAimpoint_M5",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Doctors",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Elcan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKElcan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HElcan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MElcan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_EOTech_EXPS3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKEOTech_EXPS3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HEOTech_EXPS3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MEOTech_EXPS3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HuntingOptic",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKHuntingOptic",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HHuntingOptic",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MHuntingOptic",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Kahles",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKKahles",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HKahles",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MKahles",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Leupold_Mark8",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKLeupold_Mark8",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HLeupold_Mark8",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFY_MLeupold_Mark8",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Nightforce",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKNightforce",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_HNightforce",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_MNightforce",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Kobra",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Tango6T_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Tango6T_Tan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Tango6T_Wood",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_Tango6T_Snow",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKTango6T_Black",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKTango6T_Tan",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKTango6T_Wood",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AKTango6T_Snow",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
                 }
             ]
         },
