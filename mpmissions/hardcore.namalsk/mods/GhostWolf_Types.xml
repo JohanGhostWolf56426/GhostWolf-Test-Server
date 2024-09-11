@@ -2230,6 +2230,1146 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
+	<type name="SANFU_MOELS_Grey">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MOELS_OD">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_PistolGripColtA2">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_GIGripColtA2">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_TACGripColtA2_BK">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_TACGripColtA2_Grey">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_TACGripColtA2_OD">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_TACGripColtA2_Tan">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Black">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Blue">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Brown">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Green">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Purple">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Red">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Tur">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_Shotgunchoke_Yellow">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_FCKAC_Grip">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_FGCR_Grip">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_GADAR">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_HG625">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_HGGS">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK47HG">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR07">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR08">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR09">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR10">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR13">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MCMR15">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_HGMlok">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_HGMlok_Tan">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK7">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK9">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK10">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK13">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK15">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_LVOAHG">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFUUniversalLight">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MuzzelFF">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK47Muzzel">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_HeraMuzzelF">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_IRONMODOptic">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_M4SS_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MK47_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_MOE_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_PRSGen3_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_SCQR_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_SADAR_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_SBA_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_UBR_Stock">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_M14Optic">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_SKS_Bayonet">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_M84_Optic">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_M1Garand_Supp">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_M1Garand_Bayonet">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_M1Garand_FlashHider">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_M249">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_MP7">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_Vepr">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="GCGN_Vityaz">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="AA12_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="ACR_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="HK416_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNHK417_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="IA2_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="MK18_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SCAR_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SG550_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SG552_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="Spas12_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="Tec9_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="VR80_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_AK103A">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_AK12A">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_AK19">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_AK308">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_Auto_Shotgun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_Glock19">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_M870">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_M9">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_Mp443">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_PDW_9mm">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_PDW_45ACP">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_PL14HQP">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_RPK16_Black">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_RPK16_Green">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_RPK16_Tan">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_Springfield">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_TP82S">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SN_USP">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_AEK545_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_CZ805_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFU_KAC_Gun">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFUMDARSBR_Black">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFUMDARSBR_Green">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
+	<type name="SNAFUMDARSBR_Tan">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
 
 
 
