@@ -9882,7 +9882,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Expanison_M14",
+                    "Name": "Expansion_M14",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -10378,7 +10378,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_408_Suppresor_T",
+                    "Name": "SNAFU_408_Suppressor_T",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -10562,7 +10562,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_HAimpont_ACO",
+                    "Name": "SNAFU_HAimpoint_ACO",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -11226,7 +11226,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFU_MOELS_Grey",
+                    "Name": "SNAFU_MOELS_Grey",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12730,7 +12730,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4556_Modular14DV_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12738,7 +12738,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_MK4710Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12746,7 +12746,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_MK4716Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12754,7 +12754,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFU_Saint556_Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12762,7 +12762,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_Saint_Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12770,7 +12770,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_AR15SPRBK",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12778,7 +12778,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFU_AR15SPRTAN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12786,7 +12786,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUKivaari_Black_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12794,7 +12794,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUKivaari_Tan_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12802,7 +12802,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUKivaari_Grey_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12810,7 +12810,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUKivaari_Snow_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12818,7 +12818,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFU_MAR10_Black_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12826,7 +12826,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_ScarH_Black_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12834,7 +12834,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_ScarH_DKMC_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12842,7 +12842,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_ScarH_OD_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12850,7 +12850,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_ScarH_Snow_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12858,7 +12858,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_ScarH_Tan_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12866,7 +12866,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_G3A3",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12874,7 +12874,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUMagnum500",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12882,7 +12882,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUTAR21_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12890,7 +12890,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUTAR21_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12898,7 +12898,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUTAR21_Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12906,7 +12906,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUGevar_Grey",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12914,7 +12914,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUGevar_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12922,7 +12922,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUGevar_Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12930,7 +12930,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUGevar_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12938,7 +12938,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUGM6Lynx",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12946,7 +12946,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUM96",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12954,7 +12954,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUPPSKN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12962,7 +12962,1039 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_M14",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_SKS",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_FRF2",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_M1Garand",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_M82_Barret",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_Mag_FAL_50Rnd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_M249_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_MP7_40Rnd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_VEPR_10rnd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "GCGN_Vityaz_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "AA12_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNHK417_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SG550_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "Tec9_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "VR80_Magazine_5rd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "VR80_Magazine_10rd",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SNAFU_AK103_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "SANFUTac21",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,

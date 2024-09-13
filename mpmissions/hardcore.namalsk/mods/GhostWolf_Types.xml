@@ -538,6 +538,18 @@
 		<category name="explosives" />
 		<tag name="military" />
 	</type>
+	<type name="Expansion_M14">
+		<nominal>1</nominal>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="rifles" />
+		<tag name="military" />
+	</type>
 	<type name="ER7_Scope">
 		<nominal>1</nominal>
 		<min>1</min>
@@ -910,7 +922,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_408_Suppresor_T">
+	<type name="SNAFU_408_Suppressor_T">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -1186,7 +1198,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_HAimpont_ACO">
+	<type name="SNAFU_HAimpoint_ACO">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -2182,7 +2194,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SANFU_MOELS_Grey">
+	<type name="SNAFU_MOELS_Grey">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -4450,7 +4462,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_Agram_GUN">
+	<type name="SNAFU_M4556_Modular16_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4461,7 +4473,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_M4556_Modular14DV_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4472,7 +4485,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_MK4710Gun">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4483,7 +4497,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_MK4716Gun">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4494,7 +4509,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFU_Saint556_Gun">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4505,7 +4521,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_Saint_Gun">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4516,7 +4533,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_AR15SPRBK">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4527,7 +4545,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFU_AR15SPRTAN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4538,7 +4557,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUKivaari_Black_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4549,7 +4569,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUKivaari_Tan_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4560,7 +4581,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUKivaari_Grey_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4571,7 +4593,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUKivaari_Snow_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4582,7 +4605,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFU_MAR10_Black_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4593,7 +4617,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="Snafu_ScarH_Black_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4604,7 +4629,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="Snafu_ScarH_DKMC_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4615,7 +4641,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="Snafu_ScarH_OD_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4626,7 +4653,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="Snafu_ScarH_Snow_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4637,7 +4665,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="Snafu_ScarH_Tan_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4648,7 +4677,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_G3A3">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4659,7 +4689,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUMagnum500">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4670,7 +4701,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUTAR21_Black">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4681,7 +4713,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUTAR21_Tan">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4692,7 +4725,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUTAR21_Green">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4703,7 +4737,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUGevar_Grey">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4714,7 +4749,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUGevar_Black">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4725,7 +4761,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUGevar_Green">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4736,7 +4773,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUGevar_Tan">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4747,7 +4785,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUGM6Lynx">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4758,7 +4797,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUM96">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4769,7 +4809,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFUPPSKN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4780,7 +4821,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SANFUTac21">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4791,7 +4833,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_M14">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4802,7 +4845,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_SKS">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4813,7 +4857,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="SNAFU_FRF2">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4824,7 +4869,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="GCGN_M1Garand">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4835,7 +4881,8 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="GCGN_M82_Barret">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4846,204 +4893,1119 @@
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
 		<category name="rifles" />
 		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+	</type>
+	<type name="GCGN_Mag_FAL_50Rnd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="GCGN_M249_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="GCGN_MP7_40Rnd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="GCGN_VEPR_10rnd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="GCGN_Vityaz_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="AA12_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="SNHK417_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="SG550_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="Tec9_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="VR80_Magazine_10rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="SNAFU_AK103_Mag">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type>
+	<type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
-	</type><type name="SNAFU_Agram_GUN">
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
 		<nominal>1</nominal>
+		<min>1</min>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="rifles" />
-		<tag name="military" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
+	</type><type name="VR80_Magazine_5rd">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>5400</lifetime>
+		<restock>1800</restock>
+		<quantmin>1</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+    	<tag name="military" />
 	</type>
 
 
