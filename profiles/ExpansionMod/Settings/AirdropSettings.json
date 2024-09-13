@@ -10882,38 +10882,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_HTango6T_Black",
-                    "Attachments": [],
-                    "Chance": 1,
-                    "QuantityPercent": -2,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "SNAFU_HTango6T_Tan",
-                    "Attachments": [],
-                    "Chance": 1,
-                    "QuantityPercent": -2,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "SNAFU_HTango6T_Wood",
-                    "Attachments": [],
-                    "Chance": 1,
-                    "QuantityPercent": -2,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "SNAFU_HTango6T_Snow",
-                    "Attachments": [],
-                    "Chance": 1,
-                    "QuantityPercent": -2,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "SNAFU_MTango6T_Black",
                     "Attachments": [],
                     "Chance": 1,
@@ -11002,7 +10970,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_MTrijicon_Doctor",
+                    "Name": "SNAFU_MTrijicon_Docter",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12386,7 +12354,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "GCGN_M110_Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12394,7 +12362,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "GCGN_M110_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12402,7 +12370,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "GCGN_M200",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12410,7 +12378,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "GCGN_M200_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12418,7 +12386,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M200Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12426,7 +12394,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M200SNOW",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12434,7 +12402,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "GCGN_M700",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12442,7 +12410,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNSA58_Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12450,7 +12418,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_AWM_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12458,7 +12426,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_Agram_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12466,7 +12434,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_AS50_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12474,7 +12442,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_CALI_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12482,7 +12450,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_Fort12_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12490,7 +12458,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_MP9_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12498,7 +12466,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_MPX_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12506,7 +12474,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_PKP_Black_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12514,7 +12482,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "Snafu_PKP_NBlack_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12522,7 +12490,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUAX50_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12530,7 +12498,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM24_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12538,7 +12506,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Atac_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12546,7 +12514,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Digi_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12554,7 +12522,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Ger_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12562,7 +12530,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Mc_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12570,7 +12538,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Snow_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12578,7 +12546,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUM98B_Wood_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12586,7 +12554,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFURSASS_Wood_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12594,7 +12562,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFURSASS_od_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12602,7 +12570,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFURSASS_dkmc_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12610,7 +12578,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUT5000_Dkmc_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12618,7 +12586,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUT5000_Snow_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12626,7 +12594,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUT5000_Wood_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12634,7 +12602,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUVECTOR_9mm_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12642,7 +12610,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUVECTOR_45acp_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12650,7 +12618,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_SR25_Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12658,7 +12626,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_ADAR_Modular16_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12666,7 +12634,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_AR15_Modular16_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12674,7 +12642,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFUDSASA58_Gun",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12682,7 +12650,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFULVOA556_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12690,7 +12658,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M300BK",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12698,7 +12666,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M300TAN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12706,7 +12674,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFU_M300Green",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12714,7 +12682,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4300AC_10_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12722,7 +12690,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4300AC_14_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12730,7 +12698,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4300AC_16_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12738,7 +12706,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SANFU_M4300AC_14DV_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12746,7 +12714,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4556_Modular10_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12754,7 +12722,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFUMDARSBR_Tan",
+                    "Name": "SNAFU_M4556_Modular14_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
