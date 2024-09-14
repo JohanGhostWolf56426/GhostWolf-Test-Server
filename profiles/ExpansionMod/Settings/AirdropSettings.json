@@ -10610,7 +10610,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_Doctors",
+                    "Name": "SNAFU_Docter",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13106,7 +13106,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_AK12_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13114,7 +13114,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_AK308_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13122,7 +13122,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SN_Auto_Shotgun_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13130,7 +13130,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SN_M9_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13138,7 +13138,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SN_Mp443_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13146,7 +13146,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_PDW_9mm_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13154,7 +13154,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SANFU_PDW_45ACP_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13162,7 +13162,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_PL14HQP_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13170,7 +13170,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_RPK16_Black_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13178,7 +13178,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_RPK16_Green_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13186,7 +13186,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_RPK16_Tan_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13194,7 +13194,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SN_Springfield_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13202,7 +13202,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SN_USP_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13210,7 +13210,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_KAC_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13218,7 +13218,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_Saint_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13226,7 +13226,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SANFU_PMAG556_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13234,7 +13234,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_PMAG556_Grey",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13242,7 +13242,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_PMAG556_OD",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13250,7 +13250,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_PMAG556_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13258,7 +13258,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_BMAG556_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13266,7 +13266,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_BMAG556_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13274,7 +13274,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_BMAG300_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13282,7 +13282,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_BMAG300_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13290,7 +13290,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG30556_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13298,7 +13298,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG30556_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13306,7 +13306,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SANFU_CMAG30300_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13314,7 +13314,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG30300_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13322,7 +13322,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG40556_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13330,7 +13330,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG40556_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13338,7 +13338,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG40300_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13346,7 +13346,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG40300_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13354,7 +13354,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG60556_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13362,7 +13362,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG60556_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13370,7 +13370,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SANFU_CMAG60300_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13378,7 +13378,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_CMAG60300_Tan",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13386,7 +13386,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUMDAR_30rndMagB",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13394,7 +13394,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUMDAR_30rndMagT",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13402,7 +13402,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUMDAR_60rndMagB",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13410,7 +13410,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUMDAR_60rndMagT",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13418,7 +13418,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUVSSK_5rndMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13426,7 +13426,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_SR3Vikhr_Mag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13434,7 +13434,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_Bren_30rndMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13442,7 +13442,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFU_M60_100rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13450,7 +13450,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUPPSh_71rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13458,7 +13458,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFURPD_100rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13466,7 +13466,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUSten_32rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13474,7 +13474,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUTac21",
+                    "Name": "SNAFUAlligator_5rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
