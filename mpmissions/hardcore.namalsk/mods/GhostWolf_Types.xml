@@ -1738,7 +1738,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_Trijicon_Doctor">
+	<type name="SNAFU_Trijicon_Docter">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -3766,7 +3766,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFUThompsonMk12">
+	<type name="SNAFUThompsonMk2">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4234,7 +4234,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFUT5000_Dkmc_GUN">
+	<type name="SNAFUT5000_Dkmcc_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4606,7 +4606,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SANFU_MAR10_Black_GUN">
+	<type name="SNAFU_MAR10_Black_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -6406,7 +6406,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_Amm0_127x55mmAP">
+	<type name="SNAFU_Ammo_127x55mmAP">
 		<nominal>2</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
