@@ -5530,7 +5530,7 @@
 		<category name="weapons" />
     	<tag name="military" />
 	</type>
-	<type name="SNAFU_Bren_30rndMag">
+	<type name="SNAFU_Bren_30rdMag">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
