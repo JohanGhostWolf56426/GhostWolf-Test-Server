@@ -1,0 +1,58 @@
+{
+    "Areas": [
+		{ 	"AreaName": "Radunin-Village", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 353, 0, 6640 ],
+				"Radius": 160,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "LukovAirfield-RunwayOutpost", 
+			"Type": "SpookyArea", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 4181, 0, 2264 ],
+				"Radius": 130,
+				"PosHeight": 35,
+				"NegHeight": 15,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[661, 6638],
+		[496, 6357],
+		[399, 6306],
+		[4514, 1897],
+		[4030, 1963]
+	]
+}
