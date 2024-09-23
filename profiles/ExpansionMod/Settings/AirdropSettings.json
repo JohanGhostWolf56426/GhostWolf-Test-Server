@@ -10578,7 +10578,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_Aimpont_M5",
+                    "Name": "SNAFU_Aimpoint_M5",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -11354,7 +11354,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_FCKAC_Grip",
+                    "Name": "SNAFU_FGKAC_Grip",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12026,7 +12026,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFVSSK",
+                    "Name": "SNAFUVSSK",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12706,7 +12706,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFU_M4300AC_14DV_GUN",
+                    "Name": "SNAFU_M4300AC_14DV_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12914,7 +12914,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUGevar_Black",
+                    "Name": "SNAFUGevar_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,

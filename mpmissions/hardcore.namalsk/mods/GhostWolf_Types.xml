@@ -1222,7 +1222,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_Aimpont_M5">
+	<type name="SNAFU_Aimpoint_M5">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -2386,7 +2386,7 @@
 		<category name="weapons" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFU_FCKAC_Grip">
+	<type name="SNAFU_FGKAC_Grip">
 		<nominal>1</nominal>
 		<min>1</min>
 		<lifetime>5400</lifetime>
@@ -3406,7 +3406,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SNAFVSSK">
+	<type name="SNAFUVSSK">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4426,7 +4426,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SANFU_M4300AC_14DV_GUN">
+	<type name="SNAFU_M4300AC_14DV_GUN">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
@@ -4750,7 +4750,7 @@
 		<category name="rifles" />
 		<tag name="military" />
 	</type>
-	<type name="SANFUGevar_Black">
+	<type name="SNAFUGevar_Black">
 		<nominal>1</nominal>
 		<lifetime>5400</lifetime>
 		<restock>1800</restock>
