@@ -10578,7 +10578,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_Aimpont_M5",
+                    "Name": "SNAFU_Aimpoint_M5",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -11354,7 +11354,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_FCKAC_Grip",
+                    "Name": "SNAFU_FGKAC_Grip",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12026,7 +12026,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFVSSK",
+                    "Name": "SNAFUVSSK",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12706,7 +12706,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFU_M4300AC_14DV_GUN",
+                    "Name": "SNAFU_M4300AC_14DV_GUN",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -12914,7 +12914,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SANFUGevar_Black",
+                    "Name": "SNAFUGevar_Black",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -13434,7 +13434,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SNAFU_Bren_30rndMag",
+                    "Name": "SNAFU_Bren_30rdMag",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,
@@ -14131,6 +14131,206 @@
                 },
                 {
                     "Name": "GCGN_M82_Mag",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_CRE",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu1",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu2",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu3",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu4",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu5",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu6",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu7",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu8",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu9",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu10",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu11",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu12",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu13",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu14",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu15",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu16",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu17",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu18",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu19",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu20",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu21",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu22",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu23",
+                    "Attachments": [],
+                    "Chance": 1,
+                    "QuantityPercent": -2,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "MRTsMRE_Menu24",
                     "Attachments": [],
                     "Chance": 1,
                     "QuantityPercent": -2,

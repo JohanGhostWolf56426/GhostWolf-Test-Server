@@ -43,83 +43,19 @@
     "DismantleAnywhere": 0,
     "CodelockActionsAnywhere": 0,
     "CodeLockLength": 4,
-    "DoDamageWhenEnterWrongCodeLock": 1,
-    "DamageWhenEnterWrongCodeLock": 10.0,
-    "RememberCode": 1,
+    "DoDamageWhenEnterWrongCodeLock": 0,
+    "DamageWhenEnterWrongCodeLock": 0,
+    "RememberCode": 0,
     "CanCraftTerritoryFlagKit": 0,
     "SimpleTerritory": 0,
     "AutomaticFlagOnCreation": 0,
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
-    "Zones": [
-        {
-            "Name": "Airstrip Trader",
-            "Center": [
-                6305.0,
-                26.0,
-                9521.0
-            ],
-            "Radius": 400.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        },
-        {
-            "Name": "Jalovisko Trader Camp",
-            "Center": [
-                8583.669921875,
-                29.0,
-                10515.0
-            ],
-            "Radius": 200.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        },
-        {
-            "Name": "Tara Harbor Boat Trader",
-            "Center": [
-                8043.4501953125,
-                10.0,
-                7593.4501953125
-            ],
-            "Radius": 200.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        }
-    ],
-    "ZonesAreNoBuildZones": 1,
-    "CodelockAttachMode": 1,
-    "DismantleFlagMode": 1,
-    "FlagMenuMode": 1,
+    "Zones": [],
+    "ZonesAreNoBuildZones": 0,
+    "CodelockAttachMode": 0,
+    "DismantleFlagMode": 0,
+    "FlagMenuMode": 0,
     "EnableVirtualStorage": 0,
     "VirtualStorageExcludedContainers": [
         "ExpansionAirdropContainerBase"
