@@ -543,4 +543,15 @@
         <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="3" x="8590" z="5085" r="50"/>
         <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="3" x="6715" z="4870" r="50"/>
     </territory>
+<!-- GW AJs Creatures -->
+    <territory color="1136576269">
+        <zone name="InfectedAJSCreatures" smin="2" smax="3" dmin="3" dmax="5" x="5395" z="11179" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="1" smax="4" dmin="2" dmax="6" x="5341" z="5692" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="2" smax="5" dmin="3" dmax="6" x="12121" z="1251" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="2" smax="4" dmin="3" dmax="5" x="9697" z="1408" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="1" smax="4" dmin="2" dmax="6" x="8085" z="5284" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="3" smax="4" dmin="3" dmax="5" x="3531" z="2447" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="1" smax="5" dmin="1" dmax="5" x="12339" z="2276" r="50"/>
+        <zone name="InfectedAJSCreatures" smin="1" smax="4" dmin="4" dmax="5" x="5772" z="11243" r="50"/>
+    </territory>
 </territory-type>

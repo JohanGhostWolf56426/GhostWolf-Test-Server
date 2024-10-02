@@ -333,6 +333,13 @@
         <children>
             <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_NBC_Grey" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_BlueLight" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Rainbow" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Space" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_ERDL" />
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -399,6 +406,13 @@
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_PatientOld"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_DoctorFat"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_NBC_Grey" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_BlueLight" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Rainbow" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Space" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_ERDL" />
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Black"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Blue"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Green"/>
@@ -421,6 +435,13 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_NBC_Grey"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_NBC_Yellow" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_BlueLight" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Rainbow" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Space" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_ERDL" />
         </children>
     </event>
     <event name="InfectedNBCYellow">
@@ -436,9 +457,15 @@
         <position>player</position>
         <limit>custom</limit>
         <active>1</active>
-        <active>0</active>
         <children>
             <child lootmax="3" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_NBC_Grey" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_BlueLight" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Rainbow" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Space" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_ERDL" />
         </children>
     </event>
     <event name="InfectedPolice">
