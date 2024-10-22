@@ -1,0 +1,93 @@
+{
+    "version": 122,
+    "GeneralData": {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": true,
+        "disableRespawnInUnconsciousness": true
+    },
+    "PlayerData": {
+        "disablePersonalLight": false,
+        "spawnGearPresetFiles": [
+            "GW_items/dzbLoadout_b61yx2.json"
+        ],
+        "StaminaData": {
+            "sprintStaminaModifierErc": 0,
+            "sprintStaminaModifierCro": 0,
+            "staminaWeightLimitThreshold": 60000,
+            "staminaMax": 300,
+            "staminaKgToStaminaPercentPenalty": 0,
+            "staminaMinCap": 0,
+            "sprintSwimmingStaminaModifier": 1,
+            "sprintLadderStaminaModifier": 1,
+            "meleeStaminaModifier": 1,
+            "obstacleTraversalStaminaModifier": 1,
+            "holdBreathStaminaModifier": 1
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 5,
+            "shockRefillSpeedUnconscious": 1,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.1,
+            "timeToSprint": 0.1,
+            "timeToStrafeSprint": 0.1,
+            "rotationSpeedSprint": 0.1,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 0,
+            "healthDepletionSpeed": 0,
+            "shockDepletionSpeed": 0
+        }
+    },
+    "WorldsData":
+	{
+		"lightingConfig": 1,
+		"objectSpawnersArr": ["n2150/Namalsk2150.json"],
+		"environmentMinTemps": [7, 7.4, 5, 11, 16, 22, 25, 37, 20, 18, 10, 8.1],
+		"environmentMaxTemps": [13.5, 14, 17, 24, 31, 37, 46, 46, 32, 25, 16, 10],
+		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
+	},
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableIsCollidingBBoxCheck": true,
+            "disableIsCollidingPlayerCheck": true,
+            "disableIsClippingRoofCheck": true,
+            "disableIsBaseViableCheck": true,
+            "disableIsCollidingGPlotCheck": false,
+            "disableIsCollidingAngleCheck": true,
+            "disableIsPlacementPermittedCheck": true,
+            "disableHeightPlacementCheck": true,
+            "disableIsUnderwaterCheck": true,
+            "disableIsInTerrainCheck": true,
+            "disallowedTypesInUnderground": []
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": true,
+            "disableIsCollidingCheck": true,
+            "disableDistanceCheck": true
+        }
+    },
+    "UIData": {
+        "use3DMap": true,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": false,
+            "hitDirectionBehaviour": 0,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "",
+            "hitDirectionMaxDuration": 0,
+            "hitDirectionBreakPointRelative": 0,
+            "hitDirectionScatter": 0,
+            "hitIndicationPostProcessEnabled": false
+        }
+    },
+    "MapData": {
+        "ignoreMapOwnership": false,
+        "ignoreNavItemsOwnership": false,
+        "displayPlayerPosition": false,
+        "displayNavInfo": false
+    }
+}
