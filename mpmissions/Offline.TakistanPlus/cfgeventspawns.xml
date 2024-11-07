@@ -739,4 +739,12 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+	<!-- GoatTeam6 -->
+		<event name="AnimalCorporal" />
+		<event name="AnimalSpecialist" />
+		<event name="AnimalMSG" />
+		<event name="AnimalDBoys1" />
+		<event name="AnimalDBoys2" />
+		<event name="AnimalMAJ" />
+		<event name="AnimalLTC" />
 </eventposdef>

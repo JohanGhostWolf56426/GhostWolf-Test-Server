@@ -35,7 +35,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 	<!-- mods start -->
-	<ce folder="mods">
+	<ce folder="GW_items">
 		<file name="GhostWolf_Types.xml" type="types" />
 		<file name="GW_Events.xml" type="events"/>
 	</ce>
