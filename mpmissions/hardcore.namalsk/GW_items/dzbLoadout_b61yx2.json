@@ -48,7 +48,7 @@
       "slotName": "Body",
       "discreteItemSets": [
         {
-          "itemType": "Shirt_GreenCheck",
+          "itemType": "TrackSuitJacket_Green",
           "spawnWeight": 1,
           "attributes": {
             "healthMin": 1,
@@ -67,7 +67,7 @@
       "slotName": "Legs",
       "discreteItemSets": [
         {
-          "itemType": "Breeches_Green",
+          "itemType": "TrackSuitPants_Green",
           "spawnWeight": 1,
           "attributes": {
             "healthMin": 1,
@@ -86,7 +86,7 @@
       "slotName": "Feet",
       "discreteItemSets": [
         {
-          "itemType": "AthleticShoes_Black",
+          "itemType": "HikingBootsLow_Black",
           "spawnWeight": 1,
           "attributes": {
             "healthMin": 1,
