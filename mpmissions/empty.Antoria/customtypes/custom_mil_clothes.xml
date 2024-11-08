@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<types>
+      <type name="HuntingBag_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+        <usage name="Village"/>
+	</type>
+      <type name="MountainBag_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+        <usage name="Village"/>
+	</type>
+      <type name="TortillaBag_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="CargoPants_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="FirefightersPants_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Firefighter"/>
+	</type>
+      <type name="GorkaPants_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="HunterPants_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+	</type>
+      <type name="FirefighterJacket_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Firefighter"/>
+	</type>
+      <type name="GorkaEJacket_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="HuntingJacket_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+	</type>
+      <type name="TacticalShirt_UK">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>	
+      <type name="PlateCarrierVest_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="PlateCarrierPouches_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="PlateCarrierHolster_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="SmershVest_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+	</type>
+      <type name="SmershBag_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+	</type>
+      <type name="UKAssVest_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+	</type>
+      <type name="PoliceVest_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+	</type>
+      <type name="HighCapacityVest_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+	</type>
+      <type name="Mich2001Helmet_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="DarkMotoHelmet_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="GorkaHelmet_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="BalaclavaMask_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="Balaclava3Holes_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="FaceCover_Improvised_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+	</type>
+      <type name="TacticalGloves_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="OMNOGloves_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+      <type name="WorkingGloves_UK">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes"/>
+        <usage name="Military"/>
+	</type>
+	</types>
