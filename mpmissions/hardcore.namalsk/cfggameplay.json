@@ -7,9 +7,9 @@
         "disableRespawnInUnconsciousness": true
     },
     "PlayerData": {
-        "disablePersonalLight": false,
+        "disablePersonalLight": true,
         "spawnGearPresetFiles": [
-            "torture.json"
+            "GW_items\\dzbLoadout_b61yx2.json"
         ],
         "StaminaData": {
             "sprintStaminaModifierErc": 0,
@@ -31,10 +31,10 @@
         },
         "MovementData": {
             "timeToStrafeJog": 0.1,
-            "rotationSpeedJog": 0.1,
-            "timeToSprint": 0.1,
-            "timeToStrafeSprint": 0.1,
-            "rotationSpeedSprint": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15,
             "allowStaminaAffectInertia": true
         },
         "DrowningData": {
@@ -44,7 +44,7 @@
         }
     },
     "WorldsData": {
-        "lightingConfig": 1,
+        "lightingConfig": 222,
         "objectSpawnersArr": [],
         "environmentMinTemps": [
             -32,
@@ -106,13 +106,13 @@
         "use3DMap": true,
         "HitIndicationData": {
             "hitDirectionOverrideEnabled": false,
-            "hitDirectionBehaviour": 0,
+            "hitDirectionBehaviour": 1,
             "hitDirectionStyle": 0,
-            "hitDirectionIndicatorColorStr": "",
-            "hitDirectionMaxDuration": 0,
-            "hitDirectionBreakPointRelative": 0,
-            "hitDirectionScatter": 0,
-            "hitIndicationPostProcessEnabled": false
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 2,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 10,
+            "hitIndicationPostProcessEnabled": true
         }
     },
     "MapData": {
