@@ -143,6 +143,20 @@
         "Mag_AK74_30Rnd"
       ],
       "complexChildrenTypes": []
+    },
+    {
+      "name": "Bandage",
+      "spawnWeight": 1,
+      "attributes": {
+        "healthMin": 1,
+        "healthMax": 1,
+        "quantityMin": 1,
+        "quantityMax": 1
+      },
+      "quickBarSlot": -1,
+      "simpleChildrenUseDefaultAttributes": false,
+      "simpleChildrenTypes": [],
+      "complexChildrenTypes": []
     }
   ]
 }
